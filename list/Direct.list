@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,0033cas.com
 DOMAIN-SUFFIX,asyncdata.net
 DOMAIN-SUFFIX,2akribis.com
 DOMAIN-SUFFIX,gptacg.top
-DOMAIN-KEYWORD,coinw
 
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,51zmt.top
@@ -36,6 +35,18 @@ DOMAIN-SUFFIX,vp2.us
 DOMAIN-SUFFIX,km688.ink
 
 DOMAIN-SUFFIX,futo-on.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,ffzy
+DOMAIN-KEYWORD,ipify
+DOMAIN-KEYWORD,gdhktv
+DOMAIN-KEYWORD,viptv
+DOMAIN-KEYWORD,viphktv
+DOMAIN-KEYWORD,dushe
+DOMAIN-KEYWORD,aicoin
+DOMAIN-KEYWORD,deepcoin
+DOMAIN-KEYWORD,coinw
 
 # 快猫    
 DOMAIN-SUFFIX,quickcht3.club
@@ -68,17 +79,6 @@ DOMAIN-SUFFIX,fafhjkah.xyz
 # 牛逼 
 DOMAIN-SUFFIX,66jc.top
 DOMAIN-SUFFIX,zhunchuanpb.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,ffzy
-DOMAIN-KEYWORD,ipify
-DOMAIN-KEYWORD,gdhktv
-DOMAIN-KEYWORD,viptv
-DOMAIN-KEYWORD,viphktv
-DOMAIN-KEYWORD,dushe
-DOMAIN-KEYWORD,aicoin
-DOMAIN-KEYWORD,deepcoin
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
