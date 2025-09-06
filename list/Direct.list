@@ -82,6 +82,8 @@ DOMAIN-SUFFIX,fafhjkah.xyz
 # 牛逼 
 DOMAIN-SUFFIX,66jc.top
 DOMAIN-SUFFIX,zhunchuanpb.com
+# needay
+DOMAIN-SUFFIX,needaycloud.xyz
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
