@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,km688.ink
 DOMAIN-SUFFIX,futo-on.com
 
 # 域名关键字匹配
+DOMAIN-REGEX,viptvb?\d+\.com
 DOMAIN-KEYWORD,youruanhui
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,ffzy
@@ -46,9 +47,7 @@ DOMAIN-KEYWORD,ipify
 DOMAIN-KEYWORD,gdhktv
 DOMAIN-KEYWORD,aicoin
 DOMAIN-KEYWORD,deepcoin
-DOMAIN-SUFFIX,aicoin.com
 DOMAIN-KEYWORD,coinw
-DOMAIN,app.coinw.com
 
 # 快猫    
 DOMAIN-SUFFIX,quickcht3.club
